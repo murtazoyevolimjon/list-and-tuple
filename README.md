@@ -4,7 +4,8 @@
 
 ### **1. Variable va Identifier**
 1. `x` o'zgaruvchisini yaratib, unga 5 qiymatini bering. Keyin yangi bir o'zgaruvchi yaratib, `x`ning qiymatini unga saqlang.
-2. 3 ta yangi o'zgaruvchi yarating, ularga o'z familiyangiz, ismingiz va yoshingizni saqlang. Ularning nomlarini quyidagicha belgilang: `surname`, `name`, `age`.
+2. 3 ta yangi o'zgaruvchi yarating, ularga o'z familiyangiz, ismingiz va yoshingizni saqlang. Ularning nomlarini quyidagicha belgilang: 
+surname, name, age.
 3. Noto'g'ri identifier nomlari bilan kod yozing va nima uchun xato ekanini tushuntiring.
 4. Uchta turli-tuman qiymatga ega o'zgaruvchi yarating. Keyin biror shart asosida (`if` operatoridan foydalaning), ularning qiymatlarini almashtiring. Oxirida barcha o'zgaruvchilarni chop eting.
 
